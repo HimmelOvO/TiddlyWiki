@@ -1,0 +1,11 @@
+created: 20240416060416382
+modified: 20240416060648001
+tags: IndexOfAll
+title: 手记本
+
+2021年8月 <br>
+<$button>打开所有2024年4月份的日志
+<$list filter='[prefix[2024年04]]'>
+<$action-navigate $to=<<currentTiddler>> $scroll=no/>
+</$list>
+</$button>

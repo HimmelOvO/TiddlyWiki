@@ -1,0 +1,11 @@
+created: 20240416053816346
+modified: 20240416054004096
+tags: IndexOfAll
+title: 关于
+
+!!!''Hi, there! ''
+
+日常查询知识和笔记的网站。可以通过[[双向链接]]和搜索查询任何我整理的知识。
+
+作为一名编辑，翻译，极客，我对阅读、摄影、创意、音乐、烹饪、自然和新技术乐此不疲。每周都我都会更新博客，我会在这里发布[[Geek日记]]、计划、[[读书笔记|书目]]、推广TiddlyWiki。<br>
+<br>本站所有<$count filter="[all[tiddlers]!is[system]!is[shadow]]"/> 条笔记均符合CC BY-NC-4.0 著作权协议 {{by-nc-sa.png}}<br>
