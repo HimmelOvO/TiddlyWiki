@@ -1,11 +1,13 @@
 created: 20240416020100464
-modified: 20240416054221667
+creator: NotHimmel
+modified: 20240416140240850
+modifier: NotHimmel
 tags: IndexOfAll
 title: Geek日记
 
 
 2024年
 
-
+* 4月16日 目前用TidGi线上导入wiki repo，同步repo并导出html单文件备份的部署方案
 * 4月15日 发现并启用TiddlyWiki
 * 4月8日 购买了水星SE109 2.5G交换机，实现路由器拨号，其他网口也可用来连接NAS、有线桥接。
